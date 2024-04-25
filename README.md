@@ -48,6 +48,7 @@ Response (STATUS 200)
 }
 ```
 
+
 Erros
 
 401 UNAUTHORIZED
